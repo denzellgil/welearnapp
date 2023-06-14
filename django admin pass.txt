@@ -1,0 +1,5 @@
+bawalsabihin012
+
+Generated token 54484b1969079d2501e227c432ea185457c61a39 for user admin
+
+.\env\Scripts\activate
